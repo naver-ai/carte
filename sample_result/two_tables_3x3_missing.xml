@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document filename="two_tables_3x3.jpg">
+  <table>
+    <Coords points="0,0 300,0 300,300 0,300" />
+    <cell start-row="0" start-col="0" end-row="1" end-col="0">
+      <Coords points="0,0 100,0 100,200 0,200" />
+    </cell>
+    <cell start-row="0" start-col="1" end-row="0" end-col="2">
+      <Coords points="100,0 300,0 300,100,100,100" />
+    </cell>
+    <cell start-row="1" start-col="1" end-row="1" end-col="1">
+      <Coords points="100,100 200,100 200,200 100,200" />
+    </cell>
+    <cell start-row="1" start-col="2" end-row="1" end-col="2">
+      <Coords points="200,100 300,100 300,200 200,200" />
+    </cell>
+  </table>
+  <table>
+    <Coords points="1000,0 1300,0 1300,300 1000,300" />
+    <cell start-row="0" start-col="0" end-row="1" end-col="0">
+      <Coords points="1000,0 1100,0 1100,200 1000,200" />
+    </cell>
+    <cell start-row="0" start-col="1" end-row="0" end-col="2">
+      <Coords points="1100,0 1300,0 1300,100,1100,100" />
+    </cell>
+    <cell start-row="1" start-col="1" end-row="1" end-col="1">
+      <Coords points="1100,100 1200,100 1200,200 1100,200" />
+    </cell>
+    <cell start-row="1" start-col="2" end-row="1" end-col="2">
+      <Coords points="1200,100 1300,100 1300,200 1200,200" />
+    </cell>
+  </table>
+
+</document>

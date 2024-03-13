@@ -1,0 +1,8 @@
+numpy
+shapely
+tqdm
+PyPDF2
+opencv-python
+pdf2image
+cv2
+Pillow

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document filename="two_tables_3x3.jpg">
+  <table>
+    <Coords points="0,0 300,0 300,300 0,300" />
+    <cell start-row="0" start-col="0" end-row="0" end-col="0">
+      <Coords points="0,0 100,0 100,100 0,100" />
+    </cell>
+    <cell start-row="0" start-col="1" end-row="0" end-col="1">
+      <Coords points="100,0 200,0 200,100 100,100" />
+    </cell>
+    <cell start-row="0" start-col="2" end-row="0" end-col="2">
+      <Coords points="200,0 300,0 300,100 200,100" />
+    </cell>
+    <cell start-row="1" start-col="0" end-row="1" end-col="0">
+      <Coords points="0,100 100,100 100,200 0,200" />
+    </cell>
+    <cell start-row="1" start-col="1" end-row="1" end-col="1">
+      <Coords points="100,100 200,100 200,200 100,200" />
+    </cell>
+    <cell start-row="1" start-col="2" end-row="1" end-col="2">
+      <Coords points="200,100 300,100 300,200 200,200" />
+    </cell>
+    <cell start-row="2" start-col="0" end-row="2" end-col="0">
+      <Coords points="0,200 100,200 100,300 0,300" />
+    </cell>
+    <cell start-row="2" start-col="1" end-row="2" end-col="1">
+      <Coords points="100,200 200,200 200,300 100,300" />
+    </cell>
+    <cell start-row="2" start-col="2" end-row="2" end-col="2">
+      <Coords points="200,200 300,200 300,300 200,300" />
+    </cell>
+  </table>
+</document>
